@@ -13,7 +13,7 @@
     "48": "icons/cookie.png",
     "96": "icons/cookie@2x.png"
   },
-  "homepage_url": "",
+  "homepage_url": "https://github.com/jarekkowol/cookie-list",
   "manifest_version": 2,
   "name": "List cookies",
   "version": "1.0",
